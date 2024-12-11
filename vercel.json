@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.kroto.one/publish/agpt/$1"
+ }
+  ]
+}
